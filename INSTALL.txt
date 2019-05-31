@@ -1,4 +1,0 @@
-- 1) Для сборки программы Lab-20 необходимо установить Java SE Development Kit 8u202, 
-который доступен по ссылке https://www.oracle.com/technetwork/es/java/javase/downloads/jdk8-downloads-2133151.html
-- 2)Для сборки запустить скрипт build.bat
-- 3) Для запуска программы необходимо установить Java SE Runtime Environment 8u202, 
